@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:speed_test/screen/onbourding.dart';
+import 'package:speed_test/screens/onbourding.dart';
 
 void main() {
   runApp(const MainApp());
